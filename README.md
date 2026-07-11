@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banners/lpi-logo-colour-reverse.svg" width="900"/>
+  <img src="assets/banner/blue-and-dark-future.png" width="900"/>
 </p>
 
 # infrastructure-foundations-portfolio
