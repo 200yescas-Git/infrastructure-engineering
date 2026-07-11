@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">INFRASTRUCTURE IT</h1>
-<p align="center">CompTIA | Networking | Mixed Environment | Virtualization | Cisco | Palo Alto | Juniper | Fortinet | Ubiquiti |    • L</p>
+<p align="center">CompTIA | Networking | Mixed Environment | Virtualization | Cisco | Palo Alto | Juniper | Fortinet | Ubiquiti |</p>
 
 # Professional Technical Portfolio | Long-Term Engineering Repository
 
