@@ -24,5 +24,12 @@ El propósito principal de este repositorio es:
 - Documentar procedimientos y soluciones técnicas.
 - Crear evidencia práctica de conocimientos adquiridos.
 - Mantener una base de conocimiento profesional.
+- ruta de especialidad para adquirir cierta certificación de acuerdo al estándar en tecnología.
+
+---
+
+## Scope
+
+Este repositorio contempla las siguientes áreas:
 
 
