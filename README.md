@@ -217,3 +217,188 @@ Los siguientes dominios mantienen repositorios independientes:
 - Cloud Platforms → Cloud Engineering.
 - Cybersecurity Operations → Cybersecurity Engineering.
 - Software Development → Software Engineering.
+
+## Repository Architecture
+
+La organización interna sigue una estructura basada en dominios técnicos.
+
+Cada componente mantiene su propia documentación, laboratorios, proyectos y recursos asociados.
+
+### Example
+
+cisco/
+│
+├── README.md
+├── assets/
+├── docs/
+├── labs/
+├── projects/
+└── learning-paths/
+learning-paths/
+│
+├── ccna/
+├── ccnp-enterprise/
+└── ccie-enterprise/
+
+## Technical Domains
+
+### Domain Name
+
+Descripción del dominio y su importancia dentro del ecosistema tecnológico.
+
+Incluye:
+
+- Tecnologías principales.
+- Herramientas utilizadas.
+- Casos de uso.
+- Aplicaciones empresariales.
+
+---
+
+## Labs
+
+Esta sección contiene laboratorios prácticos desarrollados para fortalecer conocimientos técnicos.
+
+Cada laboratorio incluye:
+
+- Objetivo.
+- Requerimientos.
+- Configuración utilizada.
+- Procedimiento.
+- Evidencia técnica.
+- Resultados obtenidos.
+- Lecciones aprendidas.
+
+### Example
+
+labs/
+│
+├── lab-01-name/
+├── lab-02-name/
+└── lab-03-name/
+
+
+---
+
+## Projects
+
+Esta sección contiene proyectos técnicos orientados a aplicar conocimientos en escenarios prácticos.
+
+Los proyectos pueden incluir:
+
+- Diseño de soluciones.
+- Implementaciones técnicas.
+- Automatización.
+- Integraciones.
+- Mejoras de infraestructura.
+
+---
+
+## Learning Paths
+
+Esta sección contiene rutas estructuradas de aprendizaje relacionadas con tecnologías, plataformas o certificaciones.
+
+---
+
+## Documentation Standards
+
+Toda la documentación sigue principios de:
+
+- Claridad técnica.
+- Reproducibilidad.
+- Organización consistente.
+- Evidencia práctica.
+- Referencias oficiales.
+
+---
+
+## Technologies & Tools
+
+Tecnologías utilizadas dentro del repositorio:
+
+| Category | Technologies |
+|---|---|
+| Operating Systems | |
+| Platforms | |
+| Tools | |
+| Automation | |
+| Security | |
+
+---
+
+## Security Considerations
+
+Las prácticas documentadas consideran:
+
+- Buenas prácticas de seguridad.
+- Protección de credenciales.
+- Configuraciones seguras.
+- Principios de hardening cuando aplique.
+
+---
+
+## Roadmap
+
+Evolución planificada del repositorio.
+
+### Phase 1 — Foundations
+
+Construcción de fundamentos técnicos.
+
+### Phase 2 — Intermediate Skills
+
+Implementación de tecnologías y escenarios más complejos.
+
+### Phase 3 — Advanced Topics
+
+Integración de soluciones empresariales.
+
+### Phase 4 — Professional Projects
+
+Desarrollo de proyectos orientados a ambientes reales.
+
+---
+
+## Lessons Learned
+
+Esta sección documenta:
+
+- Problemas encontrados.
+- Errores cometidos.
+- Soluciones aplicadas.
+- Mejoras realizadas.
+- Conocimientos adquiridos.
+
+---
+
+## Repository Status
+
+**Status:** Active Development
+
+Este repositorio se encuentra en construcción continua como parte de un proceso de aprendizaje y desarrollo profesional.
+
+---
+
+## References
+
+Fuentes utilizadas:
+
+- Documentación oficial.
+- Libros técnicos.
+- Estándares de industria.
+- Cursos especializados.
+- Laboratorios prácticos.
+
+---
+
+## Core Principles
+
+Este repositorio sigue los siguientes principios:
+
+- Continuous Learning.
+- Documentation First.
+- Practical Experience.
+- Technical Excellence.
+- Continuous Improvement.
+- Knowledge Organization.
+
