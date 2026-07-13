@@ -392,8 +392,6 @@ Este repositorio sigue los siguientes principios:
 
 ## Professional Vision
 
-Este repositorio forma parte de un ecosistema técnico diseñado para documentar el aprendizaje continuo, desarrollar experiencia práctica y consolidar competencias profesionales en tecnologías empresariales.
-
 Cada laboratorio, proyecto y documento representa una etapa del proceso de crecimiento técnico, manteniendo como principios fundamentales la práctica constante, la documentación estructurada y la mejora continua.
 
 Más que un repositorio de estudio, este proyecto constituye una base de conocimiento en evolución permanente, orientada a reflejar el desarrollo progresivo de habilidades de ingeniería y la aplicación de buenas prácticas de la industria.
